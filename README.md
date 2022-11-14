@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adryelgainza
-- 👀 I’m interested in ... reverse engineering and eventually exploit development
-- 🌱 I’m currently learning ... reverse engineering through strengthening programming concepts (right now doing a malware project)
+- 👀 I’m interested in ... reverse engineering and programming. Want to go into cybersecurity
+- 🌱 I’m currently learning ... reverse engineering and programming
 - 💞️ I’m looking to collaborate on ... nothing as of now but reach for help if you need it from newbie me
 - 📫 How to reach me ... shoot me a message on discord Adryel[]_[]#4566
